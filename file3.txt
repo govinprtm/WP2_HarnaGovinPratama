@@ -1,2 +1,0 @@
-ini contoh 3
-menambah baris di file3.txt
